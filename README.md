@@ -1,3 +1,1 @@
-# devops-cloud-interview-guide
-
-DevOps Interview Guide
+# Devops-Cloud-Interview-Guide
